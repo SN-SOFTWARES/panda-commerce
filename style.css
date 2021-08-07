@@ -105,4 +105,11 @@ footer{
         padding: 10px 30px;
         margin-bottom: 10px;
     }
+    i.fas.fa-angle-left {
+        padding-left: 20px;
+    }
+    
+    i.fas.fa-angle-right {
+        padding-right: 20px;
+    }
 }
