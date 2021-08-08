@@ -1,6 +1,15 @@
 .carousel-inner{
     background: #fceae8;
 }
+.btn-outline-success{
+    border: #80808054 1px solid !important;
+    color: gray;
+}
+.btn-outline-success:hover{
+    background: #fceae8;
+    color: black;
+    border: none;
+}
 .carousel-item{
     padding: 20px 40px;
 }
